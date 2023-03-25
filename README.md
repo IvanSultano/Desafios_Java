@@ -13,7 +13,7 @@ Verifique as telas dos desafios aqui!
 
 ![This is an image](https://github.com/IvanSultano/Desafios_Java/blob/main/Tela_criador_de_email.jpg?raw=true)
 
--> Erro caso coloque a data maior que a atual
+-> Erro caso coloque a data maior que a atual <-
 
 ![This is an image](https://github.com/IvanSultano/Desafios_Java/blob/main/Tela_erro_criador_de_email.jpg?raw=true)
 
